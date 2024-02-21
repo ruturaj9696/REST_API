@@ -1,0 +1,32 @@
+[
+  {
+    "name": "samsung",
+    "price": 154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "osamsungne",
+    "price": 154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "samsung",
+    "price": 154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "samsung",
+    "price": 154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "samsung",
+    "price": 154,
+    "feature": true,
+    "company": "apple"
+  }
+]
